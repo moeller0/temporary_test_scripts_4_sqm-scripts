@@ -4,7 +4,7 @@
 #
 # Abstract:
 # This is a one band cake and ipv6 enabled shaping script for Ethernet
-# gateways. This existes for the purpose of testing cake's different isolation
+# gateways. This exists for the purpose of testing cake's different isolation
 # options, specifically the directional dual-[src|dst]host feature that promises
 # to finally tackle the bit-torrent hole in simple.qos.
 # This specific version is supposed to be used on WAN interfaces:
